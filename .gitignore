@@ -1,0 +1,14 @@
+/Library
+/Temp
+/Assembly-CSharp.csproj
+/Assembly-CSharp-vs.csproj
+/rcdtcs-csharp.sln
+/rcdtcs.sln
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.suo
+Debug
