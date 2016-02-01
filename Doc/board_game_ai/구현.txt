@@ -2,4 +2,12 @@ https://github.com/vuce/Monte-Carlo-Tree-Search-Gomoku
 
  - Java로 알파 베타와 MCTS 적용된 소스 파일 
 
- - 
+ 
+
+http://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis
+
+ - 텍사스 홀뎀 라이브러리 
+
+ - 7 poker / hi-low 버전으로 바꿔서 적용 
+
+ 

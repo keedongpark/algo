@@ -1,0 +1,14 @@
+https://msdn.microsoft.com/en-us/library/ms973837.aspx
+
+ - gen0, 1, 2
+
+ - Card Table / Write Barrier 
+
+ - keep short lived objects short lived. (keep long lived objects long lived) 
+
+ - avoid too many allocations, avoid too large allocations, avoid too many pointer references (especially generation mix) 
+
+ - use dispose instead of finalizer (finalization keeps object pointers till finalization finished)
+
+ 
+
